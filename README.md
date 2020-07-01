@@ -1,3 +1,5 @@
+# I've edited the code for compatiblity with Tensorflow 2.x
+
 # Deep SORT
 
 ## Introduction
